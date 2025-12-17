@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prince Varshney</h1>
+<h1 align="center">Hey👋, I'm Prince Varshney</h1>
 <h2 align="center">Data Analyst | Power BI • SQL • Python | Real-World Data Projects</h2>
 
 <p align="center">
@@ -53,7 +53,7 @@ _B.Tech graduate in Electronics and Communication Engineering with strong analyt
 - Delivered clear insights through clean and intuitive visuals
 
 🖼️ **Preview:**  
-
+<p align="Left"><img src= "https://github.com/Prince20041/Prince20041/blob/main/Smart%20Weather%20%26%20Air%20Quality%20Monitoring%20Dashboard.png" width="300"/></p>
 
 ---
 
@@ -70,7 +70,7 @@ _B.Tech graduate in Electronics and Communication Engineering with strong analyt
 - Focused on data-driven sports insights
 
 🖼️ **Dashboard Preview:**  
-<p align="Left"> <img src="https://github.com/Prince20041/Prince20041/blob/main/IPL%20ANALYSIS%20DASHBOARD.png" width="250"/> </p>
+<p align="Left"> <img src="https://github.com/Prince20041/Prince20041/blob/main/IPL%20ANALYSIS%20DASHBOARD.png" width="300"/> </p>
 
 ---
 
