@@ -53,7 +53,7 @@ _B.Tech graduate in Electronics and Communication Engineering with strong analyt
 - Delivered clear insights through clean and intuitive visuals
 
 🖼️ **Preview:**  
-![Weather Dashboard](images/weather_dashboard.png)
+
 
 ---
 
@@ -69,8 +69,8 @@ _B.Tech graduate in Electronics and Communication Engineering with strong analyt
 - Analyzed team performance, match trends, and player KPIs
 - Focused on data-driven sports insights
 
-🖼️ **Preview:**  
-![IPL Dashboard](images/ipl_dashboard.png)
+🖼️ **Dashboard Preview:**  
+<p align="Left"> <img src="https://github.com/Prince20041/Prince20041/blob/main/IPL%20ANALYSIS%20DASHBOARD.png" width="250"/> </p>
 
 ---
 
